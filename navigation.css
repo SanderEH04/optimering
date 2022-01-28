@@ -24,7 +24,7 @@ overflow: auto;
 
 }
 
-lia {
+li a {
 
 display: block;
 
@@ -38,7 +38,7 @@ text-decoration: none;
 
 
 
-lia:hover {
+li a:hover {
 
 background-color:#ffdf00;
 
